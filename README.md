@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vladimirkratinov
-- 👀 I’m interested in ... iOS development
-- 🌱 I’m currently learning ... Swift
-- 💞️ I’m looking to collaborate on ... creative iOS app
-- 📫 How to reach me ... @VKratinov (twitter)
+- 👀 I’m interested in iOS development
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on  
+- 📫 How to reach me https://twitter.com/VKratinov
 
 <!---
 vladimirkratinov/vladimirkratinov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
