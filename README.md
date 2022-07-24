@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vladimirkratinov
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking for an entry-level job  
+- 💞️ I’m looking for an iOS developer job  
 - 📫 My Twitter: [@VKratinov](https://twitter.com/VKratinov)
 
 <!---
