@@ -1,9 +1,5 @@
 Aspiring iOS Developer with a solid background in the music industry <br>
-2 years of iOS Development, and 10 years in professional music <br>
-
-- Born in Ukraine 🇺🇦 <br>
-- China 2016-2022 🇨🇳 <br>
-- Canada 2022 🇨🇦 <br>
+🇺🇦 - 🇨🇳 - 🇨🇦 
 
 ---
 
