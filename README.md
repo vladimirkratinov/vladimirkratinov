@@ -1,7 +1,6 @@
 Aspiring iOS Developer with a solid background in the music industry <br>
 🇺🇦 - 🇨🇳 - 🇨🇦 
 
-
 ---
 
 📫 My Twitter: [@VKratinov](https://twitter.com/VKratinov) <br>
