@@ -1,7 +1,9 @@
-Aspiring iOS Developer with a solid background in the music industry <br>
+# About Me
+
+🚀 Self-taught iOS developer turned cross-platform enthusiast. Currently delving into the realms of React and React Native. ⚛️
+
 🇺🇦 - 🇨🇳 - 🇨🇦 
 
----
 
 📫 My Twitter: [@VKratinov](https://twitter.com/VKratinov) <br>
 
